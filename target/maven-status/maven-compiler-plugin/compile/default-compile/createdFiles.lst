@@ -1,0 +1,4 @@
+com\mycompany\topologyapi\TAPI.class
+com\mycompany\topologyapi\TopologyAPI.class
+com\mycompany\topologyapi\topologyCore.class
+com\mycompany\topologyapi\client.class
